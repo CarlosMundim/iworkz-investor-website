@@ -2,86 +2,92 @@
 
 ---
 
-## Welcome to the iWORKZ Investor Relations Portal
+## Invest in iWORKZ – Building the Future of Workforce Mobility
 
-At iWORKZ, we are committed to delivering sustainable value for all our stakeholders. Our investor relations hub provides up-to-date, transparent information for current and prospective investors—reflecting our ethos of trust, growth, and impact in global workforce solutions.
+**iWORKZ is the premier AI-powered platform transforming Asia’s workforce mobility, compliance, and upskilling at scale. Backed by proven leadership, global reach, and a first-mover advantage in agentic AI.**
 
 ---
 
 ## Why Invest in iWORKZ?
 
-### 🚀 **Growth Opportunity**
+### 1. **Massive Market Opportunity**
+- **¥27.4 Trillion** total addressable market by 2030 (Healthcare, Technology, Manufacturing, Services, Finance)
+- Strategic epicentre in Japan with expansion across ASEAN, ANZ, and EMEA
+- First-to-market with proprietary agentic AI for borderless talent orchestration
 
-- **Total Addressable Market:** ¥27.4 trillion across Asia by 2030
-- **AI-Driven Business Model:** Proprietary technology, high retention rates, and recurring revenue streams
-- **Scalable Platform:** Built for Japan, expanding across the region with unmatched compliance and client impact
+### 2. **AI and Compliance at Scale**
+- AI orchestrates recruitment, onboarding, compliance, and retention
+- 98%+ automation accuracy for regulatory compliance (GDPR, APPI, and regional laws)
+- API-first platform for seamless client and partner integration
 
----
+### 3. **Proven Traction**
+- 40+ signed institutional partnerships (universities, hospitals, enterprises)
+- **94%+** successful placement rate
+- **68% faster onboarding** than industry average
 
-### 💎 **Our Investment Highlights**
+### 4. **World-Class Leadership**
+- Multinational team: AI, HR, compliance, operations
+- Leadership from JP Morgan, Standard Chartered, major Japanese HR firms
+- Board and advisors with deep regional and sector expertise
 
-- **98% Compliance Automation Accuracy**
-- **75% Faster Onboarding Than Industry Average**
-- **60% Cost Reduction for Enterprise Clients**
-- **5x ROI Delivered for Key Customers**
-- **Award-Winning ESG Strategy and Female Leadership Commitment**
-
----
-
-## Investor Deck & Reports
-
-> **[Download Investor Deck (PDF)](https://iworkz.ai/investors/deck.pdf)**  
-> Latest: Q2 2025
-
-> **[Annual Report 2024 (PDF)](https://iworkz.ai/investors/annual-2024.pdf)**
-
-> **[Financial Statements →](https://iworkz.ai/investors/financials)**
-
----
-
-## Governance & Leadership
-
-- **CEO:** Kenji Yoshidome
-- **Head of AI Applications:** Jeanette Dunnisson
-- **Head of Operations:** Tomoo Furuya
-- **Head of Strategy:** Carlos Mundim
-
-**Advisors:**  
-- Foluso Phillips, Chairman, Standard Chartered Bank West Africa  
-- Prof. Han Lu, SDUFE  
-- Marco Assai, Director, JP Morgan Japan
+### 5. **ESG Impact at Scale**
+- Carbon-neutral HPC labs by 2029
+- 10,000+ workers upskilled and placed
+- 40% female engineering goal by 2030
+- Revitalising rural Japan through international placement
 
 ---
 
-## Get in Touch
+## Key Investment Highlights
 
-For investor relations, please contact:  
-📧 [investors@iworkz.ai](mailto:investors@iworkz.ai)
-
----
-
-## Investor Calendar
-
-- **H1 Results Call:** 24 July 2025  
-- **Annual General Meeting:** 18 November 2025  
-- **ESG & Impact Webinar:** 2 September 2025
-
----
-
-## Stay Connected
-
-> *Receive investor news and financial updates direct to your inbox:*  
-> [Subscribe to Investor Updates →](https://iworkz.ai/investors/subscribe)
+| Metric                 | Value / Status                              |
+|------------------------|---------------------------------------------|
+| ARR (Year 1 Target)    | ¥1.2B                                       |
+| EBITDA (Year 3)        | 23%                                         |
+| Valuation Uplift       | 8-10x (TechnoPro, Outsourcing Inc. comps)   |
+| Expansion Markets      | Japan, ASEAN, EMEA, ANZ                     |
+| Signed Partnerships    | 40+                                         |
+| Placement Success      | 94%+                                        |
+| Onboarding Speed       | 68% faster                                  |
 
 ---
 
-## Legal & Compliance
+## Visuals
 
-iWORKZ is committed to the highest standards of corporate governance, risk management, and full regulatory compliance in every jurisdiction we serve.
+**Market Growth & TAM**  
+![Market Growth](/infographics/market-growth-chart.png)
+
+**ESG Impact Overview**  
+![ESG Impact](/homepage/esg_highlight.png)
+
+**Team & Advisors**  
+![Team Leadership](/homepage/team_leadership_iworkz.png)
 
 ---
 
-**Thank you for your trust in iWORKZ. Together, we are powering the future of work.**
+## Investors Portal
+
+- **Investor Deck**: [Download PDF](/investors/Investors_Deck_iWORKZ_2025.pdf)
+- **Financial Model**: [Download Excel](/investors/iWORKZ_Financial_Model_2025-2029.xlsx)
+- **Leadership Bios**: [Meet Our Team](/homepage/team_leadership_iworkz.png)
+
+---
+
+## Contact the iWORKZ Executive Team
+
+- **Email:** invest@iworkz.ai
+- **Schedule a Consultation:** [Contact Form](https://iworkz.ai/contact)
+- **Data Room Access:** On request (NDA required)
+
+---
+
+## Legal Notice
+
+iWORKZ does not offer or solicit securities to the public. All investment materials are confidential, subject to NDA and local regulations.
+
+---
+
+*Be part of the platform powering Asia’s workforce future. Invest with vision. Invest with iWORKZ.*
 
 ---
 
