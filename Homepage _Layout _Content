@@ -1,0 +1,224 @@
+iWORKZ Homepage – Layout & Content Specification
+This document describes the layout, content, and design intent for the iWORKZ homepage.
+It covers all homepage sections, their structure, intended visuals, and content blocks.
+Note: Replace image references with actual assets in /public or /assets as per your project.
+
+Table of Contents
+Hero Section
+
+Impact Metrics
+
+Market Opportunity
+
+Solutions Overview
+
+ESG Impact
+
+Call-to-Action (CTA)
+
+Image Assets
+
+Brand Guidelines
+
+Hero Section
+Background: Deep blue (#0a1829) with luxury spacious padding
+
+Heading:
+Asia Workforce Opportunity
+
+Accent: “Workforce” highlighted in iWORKZ Red (#ED2100)
+
+Subheading:
+iWORKZ is positioned at the centre of Asia’s rapidly evolving workforce mobility market—delivering AI-powered solutions that transform how companies manage global talent.
+
+Layout:
+
+Top container: Heading and subheading (no images)
+
+Bottom container: Split into two sections (40%/60%):
+
+Left: Image carousel
+
+Right: Rotating text headlines + Impact Metrics (see below)
+
+Padding: Very generous, white space between all elements
+
+Impact Metrics
+Four impact cards, each with:
+
+Icon (see /icons or Lucide)
+
+Value (e.g. 98%)
+
+Label (e.g. Compliance Accuracy)
+
+Example metrics:
+
+98% Compliance Accuracy
+
+75% Faster Onboarding
+
+60% Cost Reduction
+
+5x ROI for Clients
+
+Market Opportunity
+Section Title:
+AI Orchestration Advantage
+
+Subheading:
+iWORKZ doesn’t just match talent with jobs. We orchestrate the entire workforce journey with our proprietary AI—delivering unmatched speed, compliance, and retention.
+
+Key Points:
+
+94%+ successful placement rate across all sectors
+
+68% faster onboarding versus industry norms
+
+100% compliance with complex visa and certification rules
+
+Market Sector Cards:
+
+Healthcare: ¥6.2T Market Size
+
+Technology: ¥8.7T Market Size
+
+Manufacturing: ¥5.8T Market Size
+
+Financial Services: ¥4.9T Market Size
+
+Each sector: Image, title, 1–2 line description, market size
+
+Total Addressable Market:
+By 2030, iWORKZ will unlock over ¥27.4 trillion in combined workforce opportunity across Asia.
+
+Solutions Overview
+Section Title:
+Tailored AI Solutions for Every Stakeholder
+
+Subheading:
+Whether you’re an enterprise client, SME, university, or international worker—iWORKZ offers a fully customised AI-powered solution.
+
+Solution Cards:
+
+Enterprise Clients
+
+SMEs
+
+Government & Municipalities
+
+Universities & Technical Schools
+
+International Workers
+
+AI/IT Vendor Augmentation
+
+Each card:
+
+Icon (Lucide, see Figma/Assets)
+
+Title, 1-line description, sample use case
+
+CTA Buttons:
+
+Explore All Solutions
+
+View Market Analysis
+
+ESG Impact
+Section Title:
+Building Sustainable AI for the Long Term
+
+Subheading:
+We believe innovation must be ethical, inclusive, and sustainable—delivering long-term value for all stakeholders.
+
+Highlights Grid:
+
+Carbon-Neutral HPC Labs by 2029
+
+10,000 Workers Upskilled
+
+40% Female Engineering Goal
+
+Ethical AI Audits
+
+Revitalising Rural Japan
+
+University Partnerships
+
+Measurable Outcomes Table:
+
+Goal	Target Year	Current Status	Progress
+Carbon Neutral Labs	2029	In Progress	35%
+Worker Upskilling	10,000	25% Complete	25%
+Female Engineering Representation	2030	20% Achieved	50%
+Bias Audit Threshold	Ongoing	1.8% Current	90%
+University Partnerships	2027	30 Signed	75%
+
+CTA:
+See Full ESG Commitment
+
+Call-to-Action (CTA)
+Section Title:
+Ready to Explore the Opportunity?
+
+Text:
+Connect with our team to learn how iWORKZ can help your business leverage Asia’s evolving workforce landscape.
+
+CTA Button:
+Schedule a Consultation
+
+Image Assets
+All image paths are relative to /public or /assets:
+
+/homepage/HeroM1.png
+
+/homepage/Immersive_AR-VR_Onboarding.png
+
+/homepage/it-ai_augmentation.png
+
+/homepage/lang_rag.png
+
+/homepage/RAG-Powered_Training_Bots.png
+
+/homepage/Smart_Talent_Matching.png
+
+/homepage/SolutionsPV_IWKZ.png
+
+/homepage/Solutions_IWKZ.png
+
+/infographics/healthcare-industry.png
+
+/infographics/technology-industry.png
+
+/infographics/manufacturing-industry.png
+
+/infographics/financial-industry.png
+
+/infographics/market-growth-chart.png
+
+/homepage/finalcta-image.png
+
+/backgrounds/circuit-bg.png
+
+/dot-pattern.svg
+
+Brand Guidelines
+Primary: Deep Blue #0a1829, Red Accent #ED2100
+
+Secondary: Teal, Blue, Purple, Green, Orange (see component design)
+
+Typography: Spacious, modern, use Poppins/Inter or brand font
+
+Padding: All sections should have large padding (≥4rem top/bottom) and ample space between elements
+
+Developer Notes
+This layout is mobile-first and must remain spacious and uncluttered on all breakpoints.
+
+Each major section should be coded as a separate React component for modularity.
+
+All numbers, stats, and copy are up to date as of May 2025.
+
+License
+This design and its assets are © iWORKZ 2025.
+Do not copy or redistribute without permission.
