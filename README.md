@@ -129,7 +129,7 @@ All rights reserved.
 ## Contact
 
 * [Project Artefacts & Docs (Google Drive)](https://drive.google.com/drive/folders/1rtNSzTJ9R56a58Fj_4Fs7d2b7bYCzZEe?usp=sharing)
-* Email: [support@iworkz.ai](mailto:support@iworkz.ai)
+* Email: [c-mundim@iworkz.ai](mailto:c-mundim@iworkz.ai)
 
 ---
 
