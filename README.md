@@ -33,6 +33,11 @@ The iWORKZ Investor Website is the digital flagship for global stakeholders, str
 * **Where to Find What:**
   [Where to Find What (Drive)](ADD_LINK_ONCE_FILE_IS_UPLOADED)
 
+* **Quick Links
+
+- **Repo Setup Checklist:**  
+  [REPO_SETUP_CHECKLIST.md (Drive)](https://drive.google.com/drive/folders/1pd-YOaByjXqnrvtLSlUQncioJSXUAqqH?usp=drive_link)
+
 ---
 
 ## Tech Stack
