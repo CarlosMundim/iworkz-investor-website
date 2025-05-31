@@ -11,7 +11,7 @@
 ## Why Invest in iWORKZ?
 
 ### 1. **Massive Market Opportunity**
-- **¥27.4 Trillion** total addressable market by 2030 (Healthcare, Technology, Manufacturing, Finance)
+- **¥27.4 Trillion** total addressable market by 2030 (Healthcare, Technology, Manufacturing, Services, Finance)
 - Strategic epicentre in Japan with expansion across ASEAN, ANZ, and EMEA
 - First-to-market with proprietary agentic AI for borderless talent orchestration
 
