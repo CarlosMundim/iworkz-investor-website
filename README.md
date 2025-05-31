@@ -58,6 +58,23 @@ MCP Template (Drive)
 
 Every team member, AI agent, and automation is tracked and assigned in the MCP doc per sprint for accountability and clarity.
 
+---
+
+## 🤖 Automation Systems
+
+### GitHub Stand-Up Automation ✅ PRODUCTION
+- **Daily Reports:** Automated at 9:00 AM JST
+- **Real-time Tracking:** Live issue and PR monitoring
+- **Team Integration:** Automatic updates to development workflow
+- **Built:** May 31, 2025 by Carlos Mundim
+
+**Files:**
+- `automation/github-standup.sh` - Daily automation script
+- `automation/README.md` - Automation system documentation
+- `logs/standup-logs.txt` - Daily report outputs
+
+**Status:** Fully operational and integrated with project workflow
+
 AI & Automation:
 
 Claude: Code review, backlog Q&A, automated sprint summaries.
