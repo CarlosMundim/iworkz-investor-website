@@ -40,6 +40,61 @@ The iWORKZ Investor Website is the digital flagship for global stakeholders, str
 
 ---
 
+📊 Project Dashboard & Gantt Chart
+Live Gantt Chart:
+iWORKZ Gantt Chart Dashboard (Google Sheets)
+Track project phases, deadlines, dependencies, and milestones in real-time. Updated each sprint.
+
+Sprint Board:
+GitHub Project Board
+View backlog, tasks in progress, and completed items.
+
+🤖 Resource Management & MCP (Multi-Agent Collaboration Protocol)
+Resource MCP Documents:
+
+Current Sprint MCP
+
+MCP Template (Drive)
+
+Every team member, AI agent, and automation is tracked and assigned in the MCP doc per sprint for accountability and clarity.
+
+AI & Automation:
+
+Claude: Code review, backlog Q&A, automated sprint summaries.
+
+n8n: Automated reminders, stand-up summaries, progress notifications in Line group.
+
+Integration: Key artefacts and status updates are posted automatically to Line and updated in the Gantt dashboard for maximum team alignment.
+
+🚦 How to Track Progress
+Check the live Gantt chart for timeline status and task ownership.
+
+Consult the GitHub Project Board for daily task status.
+
+Review Resource MCPs for assignments, agent involvement, and capacity.
+
+Get automatic updates in the team Line group (powered by n8n).
+
+🛠️ Automation & Transparency
+All major deadlines, sprint reviews, and blocker alerts are sent to the team Line group automatically.
+
+The dashboard and documentation are updated weekly by PMO and automation agents.
+
+Stakeholders can request a custom dashboard view or weekly summary at any time.
+
+📄 Quick Links (Extended)
+Gantt Chart Dashboard
+
+Resource MCP Template (Drive)
+
+Current Sprint MCP
+
+Repo Setup Checklist
+
+Where to Find What
+
+Sprint Board (GitHub)
+
 ## Tech Stack
 
 * **Frontend:** Next.js 15, TypeScript, Tailwind CSS
